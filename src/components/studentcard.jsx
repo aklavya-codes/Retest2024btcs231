@@ -8,13 +8,13 @@
 
       <h2>Aklavya yadav</h2>
 
-      <p><b>Roll No:</b> 2024BRCS231</p>
+      <p><b>Roll No:</b> 2024BTCS231</p>
 
       <p><b>Branch:</b> CSE</p>
 
       <p><b>Semester:</b> 5th</p>
 
-      <p><b>College:</b> SVIETCollege</p>
+      <p><b>College:</b> Swami vivekanand institute of engineering and tehnolgy</p>
     </div>
   );
 }
